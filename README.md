@@ -1,4 +1,4 @@
-# CalmGuard AI (Google Apps Script Edition)
+# CalmGuard AI
 
 CalmGuard AI is an automated email threat detection and phishing triage system powered by Google Gemini. Running natively on Google Apps Script, it scans incoming emails, analyzes them for malicious intent or social engineering tactics, and alerts administrators via Discord. 
 
